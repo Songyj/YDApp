@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapBar</string>
+
+    <string name="firstbottom">评价</string>
+    <string name="secondbottom">奖励</string>
+    <string name="thirdbottom">科室</string>
+    <string name="forthbottom">个人</string>
+</resources>
